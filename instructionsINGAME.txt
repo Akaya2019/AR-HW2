@@ -1,0 +1,1 @@
+In game camera controls: Hold right click of mouse and WASD for movement.
